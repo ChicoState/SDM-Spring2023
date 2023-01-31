@@ -6,3 +6,4 @@
 
 ## Students
 
+- David Coles, [decoles](https://github.com/decoles)
