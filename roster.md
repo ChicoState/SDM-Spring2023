@@ -6,4 +6,5 @@
 
 ## Students
 
-- Mike Murtey [mmurtey](https://github.com/mmurtey)
+- James Krepelka, [Jooms](https://github.com/Jooms)
+- Mike Murtey [MMurtey](https://github.com/MMurtey)
