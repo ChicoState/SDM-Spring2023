@@ -6,3 +6,4 @@
 
 ## Students
 
+- Jay Revolinsky, [jayrevolinskyjr](https://github.com/jayrevolinskyjr)
