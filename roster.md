@@ -6,3 +6,4 @@
 
 ## Students
 
+- Reema Shadid, [reembot](https://github.com/reembot)
