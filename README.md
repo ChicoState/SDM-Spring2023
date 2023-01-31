@@ -13,3 +13,4 @@ Students practice maintaining software by collaborating on a large-scale open so
 
 - [Class roster](roster.md)
 - [Helpful resources](resources.md)
+- [Required Materials](materials.md)
