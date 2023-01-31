@@ -2,7 +2,7 @@
 
 ## Faculty
 
-- Kevin Buffardi, [kbuffardi](https://github.com/kbuffardi)
+- Kevin Buffardi [kbuffardi](https://github.com/kbuffardi)
 
 ## Students
 
