@@ -6,3 +6,4 @@
 
 ## Students
 
+- Brian Wells, [bwells4](https://github.com/briswells)
