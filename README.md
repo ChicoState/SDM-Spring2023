@@ -1,2 +1,9 @@
-# SDM-Spring2023
-Overview of CSCI 630 Software Design and Maintenance at Chico State (Spring 2023)
+# Software Design and Maintenance (Spring 2023)
+
+Overview
+
+
+
+[Class roster](roster.md)
+
+[Helpful resources](resources.md)
