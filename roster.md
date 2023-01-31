@@ -6,3 +6,4 @@
 
 ## Students
 
+- James Krepelka, [Jooms](https://github.com/Jooms)
