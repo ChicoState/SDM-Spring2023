@@ -15,5 +15,6 @@
 - James Krepelka, [Jooms](https://github.com/Jooms)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
+- Tamanjeet Kaur Sidhu, [TJSidhu1](https://github.com/TJSidhu1)
 - Yashvi Siddhapura, [yashvi95](https://github.com/yashvi95)
 
