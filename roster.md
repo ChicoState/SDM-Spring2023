@@ -10,4 +10,5 @@
 - David Coles, [decoles](https://github.com/decoles)
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
 - James Krepelka, [Jooms](https://github.com/Jooms)
+- Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 
