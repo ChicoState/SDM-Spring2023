@@ -4,7 +4,7 @@ Laptop computer; No textbook required
 
 Optional reading:
 
-"Software Engineering at Google" (Winters, Mashreck, & Wright)[https://csu-chico.primo.exlibrisgroup.com/permalink/01CALS_CHI/1o8dfdr/alma991071895652702901]
+["Software Engineering at Google" (Winters, Mashreck, & Wright)](https://csu-chico.primo.exlibrisgroup.com/permalink/01CALS_CHI/1o8dfdr/alma991071895652702901)
 
 "Design Patterns: Elements of Reusable Object-Oriented Software"
 
