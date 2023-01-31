@@ -6,3 +6,4 @@ Overview
 
 - [Class roster](roster.md)
 - [Helpful resources](resources.md)
+- [Grades](grades.md)
