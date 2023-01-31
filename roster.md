@@ -1,3 +1,4 @@
+
 # Class Roster
 
 ## Faculty
@@ -6,3 +7,4 @@
 
 ## Students
 
+- Koushik Reddy Gajjala, [Gajjela-Koushik-Reddy](https://github.com/Gajjela-Koushik-Reddy)
