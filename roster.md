@@ -13,4 +13,4 @@
 - Hardik Patil, [hardikpatil](https://github.com/hardikpatil)
 - James Krepelka, [Jooms](https://github.com/Jooms)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
-
+- Yashvi Siddhapura, [yashvi95](https://github.com/yashvi95)
