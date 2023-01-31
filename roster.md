@@ -2,7 +2,7 @@
 
 ## Faculty
 
-- Kevin Buffardi, [kbuffardi](https://github.com/kbuffardi)
+- Prasanna Vaddkkepurakkal, [prasannarajezzzy](https://github.com/prasannarajezzzy/SDM-Spring2023)
 
 ## Students
 
