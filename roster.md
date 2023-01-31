@@ -6,4 +6,5 @@
 
 ## Students
 
+- David Coles, [decoles](https://github.com/decoles)
 - James Krepelka, [Jooms](https://github.com/Jooms)
