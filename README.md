@@ -4,6 +4,6 @@ Overview
 
 
 
-[Class roster](roster.md)
+- [Class roster](roster.md)
 
-[Helpful resources](resources.md)
+- [Helpful resources](resources.md)
