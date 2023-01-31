@@ -6,3 +6,4 @@
 
 ## Students
 
+- Mike Murtey [mmurtey](https://github.com/mmurtey)
