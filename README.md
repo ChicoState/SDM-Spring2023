@@ -13,4 +13,5 @@ Students practice maintaining software by collaborating on a large-scale open so
 
 - [Class roster](roster.md)
 - [Helpful resources](resources.md)
+- [Office Hours](office_hours.md)
 - [Required Materials](materials.md)
