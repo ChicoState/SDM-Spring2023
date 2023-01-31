@@ -13,7 +13,7 @@
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
 - Hardik Patil, [hardikpatil](https://github.com/hardikpatil)
 - James Krepelka, [Jooms](https://github.com/Jooms)
-- Mike Murtey [MMurtey](https://github.com/MMurtey)
+- Mike Murtey, [MMurtey](https://github.com/MMurtey)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Tamanjeet Kaur Sidhu, [TJSidhu1](https://github.com/TJSidhu1)
