@@ -10,10 +10,6 @@
     - For egregious or repeated offenses, F for the course.
     - Courses failed due to intellectual integrity violations cannot be re-taken for forgiveness
 
-## Accommodations
-
-- If you need any special accommodations, contact the instructor outside of class so arrangements can be made.
-
 ## Confidentiality and Mandatory Reporting
 
 - As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as a professor. I am required to share information regarding sexual misconduct with the University. Students may speak to someone confidentially by contacting the Counseling and Wellness Center (898-6345) or Safe Place (898-3030). Information on campus reporting obligations and other Title IX related resources are available here: www.csuchico.edu/title-ix
