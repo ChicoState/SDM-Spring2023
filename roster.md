@@ -12,5 +12,6 @@
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
 - James Krepelka, [Jooms](https://github.com/Jooms)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
+- Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Reema Shadid, [reembot](https://github.com/reembot)
 - Yashvi Siddhapura, [yashvi95](https://github.com/yashvi95)
