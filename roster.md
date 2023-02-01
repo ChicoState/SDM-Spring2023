@@ -17,6 +17,7 @@
 - Koushik Reddy Gajjala, [Gajjela-Koushik-Reddy](https://github.com/Gajjela-Koushik-Reddy)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
+- Reema Shadid, [reembot](https://github.com/reembot)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Srinivasa Murthy Krishna Murthy , [murthy-001](https://github.com/murthy-001)
