@@ -1,3 +1,4 @@
+
 # Class Roster
 
 ## Faculty
@@ -12,6 +13,7 @@
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
 - Hardik Patil, [hardikpatil](https://github.com/hardikpatil)
 - James Krepelka, [Jooms](https://github.com/Jooms)
+- Koushik Reddy Gajjala, [Gajjela-Koushik-Reddy](https://github.com/Gajjela-Koushik-Reddy)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
