@@ -17,3 +17,4 @@ Students practice maintaining software by collaborating on a large-scale open so
 - [Office Hours](office_hours.md)
 - [Required Materials](materials.md)
 - [Professional Work Policy](professionalism.md)
+- [Intellectual Integrity Policy](https://github.com/ChicoState/SDM-Spring2023/blob/main/integrity.md)
