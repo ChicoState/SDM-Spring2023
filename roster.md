@@ -17,4 +17,4 @@
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Tamanjeet Kaur Sidhu, [TJSidhu1](https://github.com/TJSidhu1)
 - Yashvi Siddhapura, [yashvi95](https://github.com/yashvi95)
-
+- Chaitanya, [c](https://github.com/chetan2298)
