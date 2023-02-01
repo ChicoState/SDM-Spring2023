@@ -6,7 +6,7 @@
 
 ## Students
 
-- Abhinay Nalam, [abhinaydruva](https://github.com/abhinaydruva)
+- Abhinay Nalam,  [abhinaydruva](https://github.com/abhinaydruva)
 - Abhinav Merugu [AbhinavReddy-Dev](https://github.com/AbhinavReddy-Dev)
 - Brian Wells [bwells4](https://github.com/briswells)
 - David Coles, [decoles](https://github.com/decoles)
