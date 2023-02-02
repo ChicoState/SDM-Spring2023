@@ -21,7 +21,7 @@
 
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | Devang R. | Available |
 |          | Available | Available |
 
 
