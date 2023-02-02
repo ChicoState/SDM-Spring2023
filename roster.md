@@ -16,6 +16,7 @@
 - Jay Revolinsky, [jayrevolinskyjr](https://github.com/jayrevolinskyjr)
 - Koushik Reddy Gajjala, [Gajjela-Koushik-Reddy](https://github.com/Gajjela-Koushik-Reddy)
 - Kushal Ramakanth, [kushalramakanth](https://github.com/kushalramakanth)
+- Manohar Mendan, [mmendan](https://github.com/mmendan)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Preston Blake, [prestonmasseyblake](https://github.com/prestonmasseyblake)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
