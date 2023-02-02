@@ -68,5 +68,5 @@
 
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | Preston | Available |
 |          | Available | Available |
