@@ -1,3 +1,4 @@
+
 # Class Roster
 
 ## Faculty
@@ -7,13 +8,17 @@
 ## Students
 
 - Abhinav Merugu [AbhinavReddy-Dev](https://github.com/AbhinavReddy-Dev)
+- Arshiya Naheed, [arshiya19](https://github.com/arshiya19)
 - Brian Wells [bwells4](https://github.com/briswells)
 - David Coles, [decoles](https://github.com/decoles)
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
 - Hardik Patil, [hardikpatil](https://github.com/hardikpatil)
 - James Krepelka, [Jooms](https://github.com/Jooms)
+- Jay Revolinsky, [jayrevolinskyjr](https://github.com/jayrevolinskyjr)
+- Koushik Reddy Gajjala, [Gajjela-Koushik-Reddy](https://github.com/Gajjela-Koushik-Reddy)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
+- Reema Shadid, [reembot](https://github.com/reembot)
 - Sandesh Sobarad, [SANDESHSOBARAD](https://github.com/SANDESHSOBARAD)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
