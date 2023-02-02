@@ -23,3 +23,4 @@
 - Srinivasa Murthy Krishna Murthy , [murthy-001](https://github.com/murthy-001)
 - Tamanjeet Kaur Sidhu, [TJSidhu1](https://github.com/TJSidhu1)
 - Yashvi Siddhapura, [yashvi95](https://github.com/yashvi95)
+- Sarthak Mishra, [smishra4](https://github.com/xl26)
