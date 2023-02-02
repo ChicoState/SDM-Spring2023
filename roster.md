@@ -14,6 +14,7 @@
 - Hardik Patil, [hardikpatil](https://github.com/hardikpatil)
 - James Krepelka, [Jooms](https://github.com/Jooms)
 - Jay Revolinsky, [jayrevolinskyjr](https://github.com/jayrevolinskyjr)
+- Kishore Kumar Menda, [KishoreMenda](https://github.com/KishoreMenda)
 - Koushik Reddy Gajjala, [Gajjela-Koushik-Reddy](https://github.com/Gajjela-Koushik-Reddy)
 - Kushal Ramakanth, [kushalramakanth](https://github.com/kushalramakanth)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
