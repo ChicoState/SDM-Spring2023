@@ -17,4 +17,4 @@ Students practice maintaining software by collaborating on a large-scale open so
 - [Schedule](schedule.md)
 - [Office Hours](office_hours.md)
 - [Required Materials](materials.md)
-- [Professional Work Policy](professionalism.md)
+- [Intellectual Integrity Policy](integrity.md)
