@@ -19,6 +19,7 @@
 - Preston Blake, [prestonmasseyblake](https://github.com/prestonmasseyblake)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Reema Shadid, [reembot](https://github.com/reembot)
+- Sachin Satish Prasad, [sachinprasad1998mav](https://github.com/sachinprasad1998mav)
 - Saurabh Kulkarni, [saurabh-dk](https://github.com/saurabh-dk)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
