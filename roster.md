@@ -17,6 +17,7 @@
 - Kishore Kumar Menda, [KishoreMenda](https://github.com/KishoreMenda)
 - Koushik Reddy Gajjala, [Gajjela-Koushik-Reddy](https://github.com/Gajjela-Koushik-Reddy)
 - Kushal Ramakanth, [kushalramakanth](https://github.com/kushalramakanth)
+- Manasa Sollapura Hallappa, [shmansa](https://github.com/shmansa)
 - Manohar Mendan, [mmendan](https://github.com/mmendan)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Preston Blake, [prestonmasseyblake](https://github.com/prestonmasseyblake)
