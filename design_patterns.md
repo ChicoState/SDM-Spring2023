@@ -9,7 +9,7 @@
 
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | James K   | Available |
 |          | Available | Available |
 
 |  April 6 | Factory Method | Abstract Factory |
