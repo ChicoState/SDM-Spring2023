@@ -14,8 +14,8 @@
 
 |  April 6 | Factory Method | Abstract Factory |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Reema Shadid | Available |
+|          | Yashvi Siddhapura | Available |
 
 ## Structural Patterns
 
