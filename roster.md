@@ -6,6 +6,7 @@
 ## Students
 
 - Abhinav Merugu [AbhinavReddy-Dev](https://github.com/AbhinavReddy-Dev)
+- Abhinay Nalam,  [abhinaydruva](https://github.com/abhinaydruva)
 - Arshiya Naheed, [arshiya19](https://github.com/arshiya19)
 - Chaitanya, [c](https://github.com/chetan2298)
 - Brian Wells [bwells4](https://github.com/briswells)
