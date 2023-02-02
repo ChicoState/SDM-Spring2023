@@ -1,4 +1,3 @@
-
 # Class Roster
 
 ## Faculty
@@ -6,6 +5,7 @@
 - Kevin Buffardi [kbuffardi](https://github.com/kbuffardi)
 
 ## Students
+
 - Abhinav Merugu [AbhinavReddy-Dev](https://github.com/AbhinavReddy-Dev)
 - Arshiya Naheed, [arshiya19](https://github.com/arshiya19)
 - Brian Wells [bwells4](https://github.com/briswells)
@@ -19,6 +19,7 @@
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Reema Shadid, [reembot](https://github.com/reembot)
+- Saurabh Kulkarni, [saurabh-dk](https://github.com/saurabh-dk)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Srinivasa Murthy Krishna Murthy , [murthy-001](https://github.com/murthy-001)
