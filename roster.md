@@ -7,6 +7,7 @@
 
 - Abhinav Merugu [AbhinavReddy-Dev](https://github.com/AbhinavReddy-Dev)
 - Arshiya Naheed, [arshiya19](https://github.com/arshiya19)
+- Chaitanya, [c](https://github.com/chetan2298)
 - Brian Wells [bwells4](https://github.com/briswells)
 - David Coles, [decoles](https://github.com/decoles)
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
