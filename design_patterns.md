@@ -32,8 +32,8 @@
 
 |  April 18 | Proxy | Bridge   |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Abhilash Sreenivasa | Available |
+|          | Sandesh Sobarad | Available |
 
 
 |  April 20 | Flyweight |
