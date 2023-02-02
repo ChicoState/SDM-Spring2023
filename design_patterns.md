@@ -9,7 +9,7 @@
 
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | James K   | Available |
 |          | Available | Available |
 
 |  April 6 | Factory Method | Abstract Factory |
@@ -21,7 +21,7 @@
 
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | David Coles | Available |
 |          | Available | Available |
 
 
@@ -68,5 +68,5 @@
 
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | Preston | Available |
 |          | Available | Available |

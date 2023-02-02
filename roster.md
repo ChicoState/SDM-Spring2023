@@ -2,7 +2,6 @@
 # Class Roster
 
 ## Faculty
-
 - Kevin Buffardi [kbuffardi](https://github.com/kbuffardi)
 
 ## Students
@@ -18,6 +17,7 @@
 - Kushal Ramakanth, [kushalramakanth](https://github.com/kushalramakanth)
 - Mike Murtey, [MMurtey](https://github.com/MMurtey)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
+- Preston Blake, [prestonmasseyblake](https://github.com/prestonmasseyblake)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Reema Shadid, [reembot](https://github.com/reembot)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
