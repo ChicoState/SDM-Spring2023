@@ -11,6 +11,7 @@
 |         |   James K | Available |
 |         | Available | Available |
 
+<<<<<<< HEAD
 | April 6 |    Factory Method | Abstract Factory |
 | ------: | ----------------: | ---------------: |
 |         |      Reema Shadid |        Available |
@@ -22,6 +23,24 @@
 | -------: | ----------: | --------: |
 |          | David Coles | Available |
 |          |   Available | Available |
+=======
+|  April 4 | Prototype | Builder   |
+|---------:|----------:|----------:|
+|          | James K   | Jay Revo. |
+|          | Available | Available |
+
+|  April 6 | Factory Method | Abstract Factory |
+|---------:|----------:|----------:|
+|          | Reema Shadid | Available |
+|          | Yashvi Siddhapura | Available |
+
+## Structural Patterns
+
+|  April 11 | Adapter | Decorator   |
+|---------:|----------:|----------:|
+|          | David Coles | Hardik Patil|
+|          | Available | Kushal Ramakanth |
+>>>>>>> main
 
 | April 13 |         Facade | Composite |
 | -------: | -------------: | --------: |
