@@ -46,7 +46,7 @@
 |  April 25 | Strategy | Chain of Responsibility |
 |---------:|----------:|----------:|
 |          | Available | Sourabh Kulkarni |
-|          | Available | Gargi Ghadigaonkar |
+|          | Manasa | Gargi Ghadigaonkar |
 
 
 |  April 27 | Command |        Iterator |
