@@ -56,10 +56,10 @@
 |          | Available | Available |
 
 
-|  May 2 | Mediator | Observer   |
+|  May 2   | Mediator  | Observer  |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Arshiya   | Koushik   |
+|          | Tamanjeet | Sri Sai   |
 
 |  May 4 | Memento | State   |
 |---------:|----------:|----------:|
