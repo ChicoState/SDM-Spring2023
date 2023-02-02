@@ -32,7 +32,8 @@
 
 |  April 18 | Proxy | Bridge   |
 |---------:|----------:|----------:|
-|          | Abhilash Sreenivasa | Available |
+
+|          | Abhilash Sreenivasa | Rahul Belwal |
 |          | Sandesh Sobarad | Available |
 
 
