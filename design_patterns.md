@@ -9,7 +9,7 @@
 
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
-|          | James K   | Available |
+|          | James K   | Jay Revo. |
 |          | Available | Available |
 
 |  April 6 | Factory Method | Abstract Factory |
@@ -21,8 +21,8 @@
 
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
-|          | David Coles | Available |
-|          | Available | Available |
+|          | David Coles | Hardik Patil|
+|          | Available | Kushal Ramakanth |
 
 
 |  April 13 | Facade | Composite   |
