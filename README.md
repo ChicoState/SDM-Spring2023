@@ -19,3 +19,4 @@ Students practice maintaining software by collaborating on a large-scale open so
 - [Office Hours](office_hours.md)
 - [Required Materials](materials.md)
 - [Intellectual Integrity Policy](integrity.md)
+- [Learning Outcomes](outcomes.md)

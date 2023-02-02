@@ -1,8 +1,6 @@
-
 # Class Roster
 
 ## Faculty
-
 - Kevin Buffardi [kbuffardi](https://github.com/kbuffardi)
 
 ## Students
@@ -16,10 +14,13 @@
 - James Krepelka, [Jooms](https://github.com/Jooms)
 - Jay Revolinsky, [jayrevolinskyjr](https://github.com/jayrevolinskyjr)
 - Koushik Reddy Gajjala, [Gajjela-Koushik-Reddy](https://github.com/Gajjela-Koushik-Reddy)
+- Kushal Ramakanth, [kushalramakanth](https://github.com/kushalramakanth)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
+- Preston Blake, [prestonmasseyblake](https://github.com/prestonmasseyblake)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Reema Shadid, [reembot](https://github.com/reembot)
 - Sandesh Sobarad, [SANDESHSOBARAD](https://github.com/SANDESHSOBARAD)
+- Saurabh Kulkarni, [saurabh-dk](https://github.com/saurabh-dk)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Srinivasa Murthy Krishna Murthy , [murthy-001](https://github.com/murthy-001)
