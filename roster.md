@@ -20,6 +20,7 @@
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Reema Shadid, [reembot](https://github.com/reembot)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
+- Shubham Latkar, [shubhamlatkar](https://github.com/shubhamlatkar)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Srinivasa Murthy Krishna Murthy , [murthy-001](https://github.com/murthy-001)
 - Tamanjeet Kaur Sidhu, [TJSidhu1](https://github.com/TJSidhu1)
