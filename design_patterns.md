@@ -69,4 +69,4 @@
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
 |          | Preston | Available |
-|          | Available | Available |
+|          | Manohar | Available |
