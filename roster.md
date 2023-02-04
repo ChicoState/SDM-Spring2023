@@ -20,6 +20,7 @@
 - Kushal Ramakanth, [kushalramakanth](https://github.com/kushalramakanth)
 - Manasa Sollapura Hallappa, [shmansa](https://github.com/shmansa)
 - Manohar Mendan, [mmendan](https://github.com/mmendan)
+- Nidhi Kulkarni, [nvkulkarni](https://github.com/nvkulkarni12)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Prasanna Vaddkkepurakkal, [prasannarajezzzy](https://github.com/prasannarajezzzy/SDM-Spring2023)
 - Preston Blake, [prestonmasseyblake](https://github.com/prestonmasseyblake)
