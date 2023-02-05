@@ -51,10 +51,10 @@
 |          | Available | Available |
 
 
-|  April 27 | Command | Iterator   |
-|---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|  April 27 | Command |        Iterator |
+|---------:|----------:|----------------:|
+|          | Available |  Shubham Latkar |
+|          | Available | Rohit Karhadkar |
 
 
 |  May 2 | Mediator | Observer   |
