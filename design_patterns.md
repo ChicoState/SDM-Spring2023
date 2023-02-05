@@ -9,20 +9,20 @@
 
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | James K   | Jay Revo. |
 |          | Available | Available |
 
 |  April 6 | Factory Method | Abstract Factory |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Reema Shadid | Available |
+|          | Yashvi Siddhapura | Available |
 
 ## Structural Patterns
 
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | David Coles | Hardik Patil|
+|          | Available | Kushal Ramakanth |
 
 
 |  April 13 | Facade | Composite   |
@@ -32,8 +32,9 @@
 
 |  April 18 | Proxy | Bridge   |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+
+|          | Abhilash Sreenivasa | Rahul Belwal |
+|          | Sandesh Sobarad | Available |
 
 
 |  April 20 | Flyweight |
@@ -68,5 +69,5 @@
 
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | Preston | Available |
 |          | Available | Available |
