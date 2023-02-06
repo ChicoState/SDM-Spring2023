@@ -28,6 +28,7 @@
 - Reema Shadid, [reembot](https://github.com/reembot)
 - Sachin Satish Prasad, [sachinprasad1998mav](https://github.com/sachinprasad1998mav)
 - Sandesh Sobarad, [SANDESHSOBARAD](https://github.com/SANDESHSOBARAD)
+- Sarthak Mishra, [smishra4](https://github.com/xl26)
 - Saurabh Kulkarni, [saurabh-dk](https://github.com/saurabh-dk)
 - Sathyanarayanan Vaithianathan, [sathyanarayanan-v](https://github.com/sathyanarayanan-v)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
