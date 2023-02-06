@@ -50,16 +50,10 @@
 |          | Available | Sourabh Kulkarni |
 |          | Available | Gargi Ghadigaonkar |
 
-| May 2 |  Mediator |  Observer |
-| ----: | --------: | --------: |
-|       | Available | Available |
-|       | Available | Available |
-
 |  April 27 | Command |        Iterator |
 |---------:|----------:|----------------:|
 |          | Available |  Shubham Latkar |
 |          | Available | Rohit Karhadkar |
-
 
 |  May 2   | Mediator  | Observer  |
 |---------:|----------:|----------:|
