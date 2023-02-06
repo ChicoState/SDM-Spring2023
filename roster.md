@@ -4,7 +4,7 @@
 - Kevin Buffardi [kbuffardi](https://github.com/kbuffardi)
 
 ## Students
-
+- Abhilash Sreenivasa, [abhilashSreenivasa](https://github.com/abhilashSreenivasa) 
 - Abhinav Merugu [AbhinavReddy-Dev](https://github.com/AbhinavReddy-Dev)
 - Abhinay Nalam,  [abhinaydruva](https://github.com/abhinaydruva)
 - Arshiya Naheed, [arshiya19](https://github.com/arshiya19)
@@ -20,14 +20,19 @@
 - Kushal Ramakanth, [kushalramakanth](https://github.com/kushalramakanth)
 - Manasa Sollapura Hallappa, [shmansa](https://github.com/shmansa)
 - Manohar Mendan, [mmendan](https://github.com/mmendan)
+- Mike Murtey, [MMurtey](https://github.com/MMurtey)
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Prasanna Vaddkkepurakkal, [prasannarajezzzy](https://github.com/prasannarajezzzy/SDM-Spring2023)
 - Preston Blake, [prestonmasseyblake](https://github.com/prestonmasseyblake)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Reema Shadid, [reembot](https://github.com/reembot)
+- Rohit Karhadkar, [rohitkarhadkar](https://github.com/rohitkarhadkar)
 - Sachin Satish Prasad, [sachinprasad1998mav](https://github.com/sachinprasad1998mav)
+- Sandesh Sobarad, [SANDESHSOBARAD](https://github.com/SANDESHSOBARAD)
+- Sarthak Mishra, [smishra4](https://github.com/xl26)
 - Saurabh Kulkarni, [saurabh-dk](https://github.com/saurabh-dk)
 - Sathyanarayanan Vaithianathan, [sathyanarayanan-v](https://github.com/sathyanarayanan-v)
+- Shubham Latkar, [shubhamlatkar](https://github.com/shubhamlatkar)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Srinivasa Murthy Krishna Murthy , [murthy-001](https://github.com/murthy-001)

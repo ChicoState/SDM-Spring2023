@@ -23,10 +23,10 @@
 
 ## Structural Patterns
 
-| April 11 |     Adapter |        Decorator |
-| -------: | ----------: | ---------------: |
-|          | David Coles |     Hardik Patil |
-|          |   Available | Kushal Ramakanth |
+|  April 11 | Adapter | Decorator   |
+|---------:|----------:|----------:|
+|          | David Coles | Hardik Patil|
+|          | Devang Raval | Kushal Ramakanth |
 
 | April 13 |         Facade | Composite |
 | -------: | -------------: | --------: |
