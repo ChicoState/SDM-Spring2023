@@ -27,6 +27,7 @@
 - Parth Pandey, [parthpandey1](https://github.com/parthpandey1)
 - Prasanna Vaddkkepurakkal, [prasannarajezzzy](https://github.com/prasannarajezzzy/SDM-Spring2023)
 - Preston Blake, [prestonmasseyblake](https://github.com/prestonmasseyblake)
+- Priyanka Rao, [priyankavrao97](https://github.com/priyankavrao97)
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Reema Shadid, [reembot](https://github.com/reembot)
 - Rohit Karhadkar, [rohitkarhadkar](https://github.com/rohitkarhadkar)
