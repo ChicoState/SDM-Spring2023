@@ -2,24 +2,20 @@
 
 ## Creational Patterns
 
-| March 30 |      Singleton |
-| -------: | -------------: |
+|  March 30 | Singleton |
+|---------:|----------:|
 |          | Kevin Buffardi |
 
-| April 4 | Prototype |   Builder |
-| ------: | --------: | --------: |
-|         |   James K | Available |
-|         | Available | Available |
 
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
 |          | James K   | Jay Revo. |
 |          | Mike Murtey | Available |
 
-| April 6 |    Factory Method | Abstract Factory |
-| ------: | ----------------: | ---------------: |
-|         |      Reema Shadid |        Available |
-|         | Yashvi Siddhapura |        Available |
+|  April 6 | Factory Method | Abstract Factory |
+|---------:|----------:|----------:|
+|          | Reema Shadid | Available |
+|          | Yashvi Siddhapura | Available |
 
 ## Structural Patterns
 
@@ -33,15 +29,18 @@
 |          | Abhinav Merugu | Kishore Menda |
 |          | Available | Abhinay Nalam |
 
-| April 18 |               Proxy |       Bridge |
-| -------: | ------------------: | -----------: |
-|          | Abhilash Sreenivasa | Rahul Belwal |
-|          |     Sandesh Sobarad |    Available |
+|  April 18 | Proxy | Bridge   |
+|---------:|----------:|----------:|
 
-| April 20 | Flyweight |
-| -------: | --------: |
+|          | Abhilash Sreenivasa | Rahul Belwal |
+|          | Sandesh Sobarad | Available |
+
+
+|  April 20 | Flyweight |
+|---------:|----------:|
 |          | Available |
 |          | Available |
+
 
 ## Behavioral Patterns
 
@@ -50,10 +49,12 @@
 |          | Available | Sourabh Kulkarni |
 |          | Available | Gargi Ghadigaonkar |
 
+
 |  April 27 | Command |        Iterator |
 |---------:|----------:|----------------:|
 |          | Available |  Shubham Latkar |
 |          | Available | Rohit Karhadkar |
+
 
 |  May 2   | Mediator  | Observer  |
 |---------:|----------:|----------:|
