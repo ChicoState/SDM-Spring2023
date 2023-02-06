@@ -22,8 +22,7 @@
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
 |          | David Coles | Hardik Patil|
-|          | Available | Kushal Ramakanth |
-
+|          | Devang Raval | Kushal Ramakanth |
 
 |  April 13 | Facade | Composite   |
 |---------:|----------:|----------:|
