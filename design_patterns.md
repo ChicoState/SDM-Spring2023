@@ -10,7 +10,7 @@
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
 |          | James K   | Jay Revo. |
-|          | Available | Available |
+|          | Mike Murtey | Available |
 
 |  April 6 | Factory Method | Abstract Factory |
 |---------:|----------:|----------:|
@@ -22,13 +22,12 @@
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
 |          | David Coles | Hardik Patil|
-|          | Available | Kushal Ramakanth |
-
+|          | Devang Raval | Kushal Ramakanth |
 
 |  April 13 | Facade | Composite   |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Available | Kishore Menda |
+|          | Available | Abhinay Nalam |
 
 |  April 18 | Proxy | Bridge   |
 |---------:|----------:|----------:|
@@ -47,8 +46,8 @@
 
 |  April 25 | Strategy | Chain of Responsibility |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Available | Sourabh Kulkarni |
+|          | Available | Gargi Ghadigaonkar |
 
 
 |  April 27 | Command | Iterator   |
@@ -57,10 +56,10 @@
 |          | Available | Available |
 
 
-|  May 2 | Mediator | Observer   |
+|  May 2   | Mediator  | Observer  |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Arshiya   | Koushik   |
+|          | Tamanjeet | Sri Sai   |
 
 |  May 4 | Memento | State   |
 |---------:|----------:|----------:|
@@ -70,4 +69,4 @@
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
 |          | Preston | Available |
-|          | Available | Available |
+|          | Manohar | Available |
