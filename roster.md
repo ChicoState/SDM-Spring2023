@@ -31,6 +31,7 @@
 - Sarthak Mishra, [smishra4](https://github.com/xl26)
 - Saurabh Kulkarni, [saurabh-dk](https://github.com/saurabh-dk)
 - Sathyanarayanan Vaithianathan, [sathyanarayanan-v](https://github.com/sathyanarayanan-v)
+- Shubham Latkar, [shubhamlatkar](https://github.com/shubhamlatkar)
 - Sourabh Kulkarni, [sourabhk25](https://github.com/sourabhk25)
 - Sri Sai Mamunooru, [MSS-Shalavritha](https://github.com/MSS-Shalavritha)
 - Srinivasa Murthy Krishna Murthy , [murthy-001](https://github.com/murthy-001)
