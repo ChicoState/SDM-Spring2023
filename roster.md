@@ -1,12 +1,14 @@
 # Class Roster
 
 ## Faculty
+
 - Kevin Buffardi [kbuffardi](https://github.com/kbuffardi)
 
 ## Students
 - Abhilash Sreenivasa, [abhilashSreenivasa](https://github.com/abhilashSreenivasa) 
 - Abhinav Merugu [AbhinavReddy-Dev](https://github.com/AbhinavReddy-Dev)
-- Abhinay Nalam,  [abhinaydruva](https://github.com/abhinaydruva)
+- Abhinay Nalam, [abhinaydruva](https://github.com/abhinaydruva)
+- Anoushka Sharma, [Anoushka444](https://github.com/Anoushka444)
 - Arshiya Naheed, [arshiya19](https://github.com/arshiya19)
 - Chaitanya, [c](https://github.com/chetan2298)
 - Brian Wells [bwells4](https://github.com/briswells)
