@@ -27,7 +27,7 @@
 |  April 13 | Facade | Composite   |
 |---------:|----------:|----------:|
 |          | Abhinav Merugu | Kishore Menda |
-|          | Available | Abhinay Nalam |
+|          | Hamsaraj Tupthi | Abhinay Nalam |
 
 |  April 18 | Proxy | Bridge   |
 |---------:|----------:|----------:|
