@@ -32,7 +32,7 @@
 |  April 18 | Proxy | Bridge   |
 |---------:|----------:|----------:|
 |          | Abhilash Sreenivasa | Rahul Belwal |
-|          | Sandesh Sobarad | Available |
+|          | Sandesh Sobarad | Chaitanya |
 
 
 |  April 20 | Flyweight |
