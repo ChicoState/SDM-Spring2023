@@ -9,8 +9,8 @@
 
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
-|          | James K   | Available |
-|          | Available | Available |
+|          | James K   | Jay Revo. |
+|          | Mike Murtey | Available |
 
 |  April 6 | Factory Method | Abstract Factory |
 |---------:|----------:|----------:|
@@ -21,19 +21,18 @@
 
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
-|          | David Coles | Available |
-|          | Available | Available |
-
+|          | David Coles | Hardik Patil|
+|          | Devang Raval | Kushal Ramakanth |
 
 |  April 13 | Facade | Composite   |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Abhinav Merugu | Kishore Menda |
+|          | Available | Abhinay Nalam |
 
 |  April 18 | Proxy | Bridge   |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Abhilash Sreenivasa | Rahul Belwal |
+|          | Sandesh Sobarad | Available |
 
 
 |  April 20 | Flyweight |
@@ -46,20 +45,20 @@
 
 |  April 25 | Strategy | Chain of Responsibility |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Available | Sourabh Kulkarni |
+|          | Available | Gargi Ghadigaonkar |
 
 
-|  April 27 | Command | Iterator   |
+|  April 27 | Command |        Iterator |
+|---------:|----------:|----------------:|
+|          | Available |  Shubham Latkar |
+|          | Available | Rohit Karhadkar |
+
+
+|  May 2   | Mediator  | Observer  |
 |---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
-
-
-|  May 2 | Mediator | Observer   |
-|---------:|----------:|----------:|
-|          | Available | Available |
-|          | Available | Available |
+|          | Arshiya   | Koushik   |
+|          | Tamanjeet | Sri Sai   |
 
 |  May 4 | Memento | State   |
 |---------:|----------:|----------:|
@@ -69,4 +68,4 @@
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
 |          | Preston | Available |
-|          | Available | Available |
+|          | Manohar | Available |
