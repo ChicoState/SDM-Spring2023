@@ -37,8 +37,8 @@
 
 |  April 20 | Flyweight |
 |---------:|----------:|
-|          | Available |
-|          | Available |
+|          | Anoushka Sharma |
+|          | Tanvi Mahajan |
 
 
 ## Behavioral Patterns
