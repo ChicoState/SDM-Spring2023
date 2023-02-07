@@ -14,6 +14,7 @@
 - Brian Wells [bwells4](https://github.com/briswells)
 - David Coles, [decoles](https://github.com/decoles)
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
+- Hamsaraj Tupthi, [hamsaraj7106](https://github.com/hamsaraj7106)
 - Hardik Patil, [hardikpatil](https://github.com/hardikpatil)
 - James Krepelka, [Jooms](https://github.com/Jooms)
 - Jay Revolinsky, [jayrevolinskyjr](https://github.com/jayrevolinskyjr)
