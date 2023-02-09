@@ -38,7 +38,7 @@
 |  April 20 | Flyweight |
 |---------:|----------:|
 |          | Manavi Ghorpade |
-|          | Available |
+|          | Rohit Raut |
 
 
 ## Behavioral Patterns

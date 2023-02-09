@@ -33,6 +33,7 @@
 - Rahul Belwal, [rbelwal](https://github.com/naturewillwin008)
 - Reema Shadid, [reembot](https://github.com/reembot)
 - Rohit Karhadkar, [rohitkarhadkar](https://github.com/rohitkarhadkar)
+- Rohit Raut, [rohitraut18](https://github.com/rohitraut18)
 - Sachin Satish Prasad, [sachinprasad1998mav](https://github.com/sachinprasad1998mav)
 - Sandesh Sobarad, [SANDESHSOBARAD](https://github.com/SANDESHSOBARAD)
 - Sarthak Mishra, [smishra4](https://github.com/xl26)
