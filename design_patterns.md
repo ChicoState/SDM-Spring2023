@@ -14,8 +14,8 @@
 
 |  April 6 | Factory Method | Abstract Factory |
 |---------:|----------:|----------:|
-|          | Reema Shadid | Available |
-|          | Yashvi Siddhapura | Available |
+|          | Reema Shadid | Anoushka Sharma |
+|          | Yashvi Siddhapura | Tanvi Mahajan |
 
 ## Structural Patterns
 
