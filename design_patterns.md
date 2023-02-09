@@ -38,7 +38,7 @@
 |  April 20 | Flyweight |
 |---------:|----------:|
 |          | Available |
-|          | Available |
+|          | Rohit Raut |
 
 
 ## Behavioral Patterns
