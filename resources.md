@@ -7,7 +7,7 @@
 ## Git
 
 - [Learn Git Branching](https://learngitbranching.js.org/), an interactive tutorial on advanced git commands
-
+- [Git CheatSheet (by Github)](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Markdown
 
