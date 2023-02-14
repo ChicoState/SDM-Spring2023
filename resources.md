@@ -16,13 +16,15 @@
 
 ## Node
 
+- [Node Tutorial](https://www.w3schools.com/nodejs/default.asp)
 
 ## React
 
-
+- [React Tutorial](https://www.w3schools.com/react/default.asp)
 
 ## Typescript
 
+- [TypeScript Tutorial](https://www.w3schools.com/typescript/index.php)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
   - [Migrating from JavaScript](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html)
 - [Typescript 4 Design Patterns and Best Practices](https://csu-chico.primo.exlibrisgroup.com/permalink/01CALS_CHI/1o8dfdr/alma991073255833502901), eBook available via Chico State Library^1
