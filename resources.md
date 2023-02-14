@@ -32,4 +32,4 @@
 
 # Footnotes
 
-[^1] O'Reilly Online books are available to students and faculty through the campus library. Create an account by selecting that *your institution is not listed* and then enter your **csuchico.edu** email address when signing up (*not* using other authenticators)
+[^1]: O'Reilly Online books are available to students and faculty through the campus library. Create an account by selecting that *your institution is not listed* and then enter your **csuchico.edu** email address when signing up (*not* using other authenticators)
