@@ -62,7 +62,7 @@
 
 |  May 4 | Memento | State   |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | Available | Sachin Satish Prasad |
 |          | Available | Available |
 
 |  May 9   | Template Method | Visitor |
