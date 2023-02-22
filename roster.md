@@ -10,7 +10,7 @@
 - Abhinay Nalam, [abhinaydruva](https://github.com/abhinaydruva)
 - Anoushka Sharma, [Anoushka444](https://github.com/Anoushka444)
 - Arshiya Naheed, [arshiya19](https://github.com/arshiya19)
-- Chaitanya, [c](https://github.com/chetan2298)
+- Chaitanya, [chetan2298](https://github.com/chetan2298)
 - Brian Wells [bwells4](https://github.com/briswells)
 - David Coles, [decoles](https://github.com/decoles)
 - Devang Raval, [DevangRaval1](https://github.com/DevangRaval1)
