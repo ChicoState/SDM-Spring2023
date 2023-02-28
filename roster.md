@@ -37,7 +37,7 @@
 - Rohit Raut, [rohitraut18](https://github.com/rohitraut18)
 - Sachin Satish Prasad, [sachinprasad1998mav](https://github.com/sachinprasad1998mav)
 - Sandesh Sobarad, [SANDESHSOBARAD](https://github.com/SANDESHSOBARAD)
-- Sarthak Mishra, [smishra4](https://github.com/xl26)
+- Sarthak Mishra, [xl26](https://github.com/xl26)
 - Saurabh Kulkarni, [saurabh-dk](https://github.com/saurabh-dk)
 - Sathyanarayanan Vaithianathan, [sathyanarayanan-v](https://github.com/sathyanarayanan-v)
 - Shubham Latkar, [shubhamlatkar](https://github.com/shubhamlatkar)
