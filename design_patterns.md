@@ -10,7 +10,7 @@
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
 |          | James K   | Jay Revo. |
-|          | Mike Murtey | Available |
+|          | Mike Murtey | Parth Pandey |
 
 |  April 6 | Factory Method | Abstract Factory |
 |---------:|----------:|----------:|
