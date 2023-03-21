@@ -51,8 +51,8 @@
 
 |  April 27 | Command |        Iterator |
 |---------:|----------:|----------------:|
-|          | Available |  Shubham Latkar |
-|          | Available | Rohit Karhadkar |
+|          | Nidhi V Kulkarni |  Shubham Latkar |
+|          | Priyanka V Rao | Rohit Karhadkar |
 
 
 |  May 2   | Mediator  | Observer  |
