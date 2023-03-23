@@ -21,7 +21,7 @@
 
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
-|          | David Coles | Hardik Patil|
+|          | Available | Hardik Patil|
 |          | Devang Raval | Kushal Ramakanth |
 
 |  April 13 | Facade | Composite   |
@@ -62,7 +62,7 @@
 
 |  May 4 | Memento | State   |
 |---------:|----------:|----------:|
-|          | Available | Sachin Satish Prasad |
+|          | David Coles | Sachin Satish Prasad |
 |          | Available | Available |
 
 |  May 9   | Template Method | Visitor |
