@@ -63,7 +63,7 @@
 |  May 4 | Memento | State   |
 |---------:|----------:|----------:|
 |          | David Coles | Sachin Satish Prasad |
-|          | Available | Available |
+|          | Prasanna | Srinivasa |
 
 |  May 9   | Template Method | Visitor |
 |---------:|----------:|----------:|
