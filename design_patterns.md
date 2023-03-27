@@ -10,35 +10,35 @@
 |  April 4 | Prototype | Builder   |
 |---------:|----------:|----------:|
 |          | James K   | Jay Revo. |
-|          | Mike Murtey | Available |
+|          | Mike Murtey | Brian Wells |
 
 |  April 6 | Factory Method | Abstract Factory |
 |---------:|----------:|----------:|
-|          | Reema Shadid | Available |
-|          | Yashvi Siddhapura | Available |
+|          | Reema Shadid | Anoushka Sharma |
+|          | Yashvi Siddhapura | Tanvi Mahajan |
 
 ## Structural Patterns
 
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
-|          | David Coles | Hardik Patil|
+|          | Available | Hardik Patil|
 |          | Devang Raval | Kushal Ramakanth |
 
 |  April 13 | Facade | Composite   |
 |---------:|----------:|----------:|
 |          | Abhinav Merugu | Kishore Menda |
-|          | Available | Abhinay Nalam |
+|          | Hamsaraj Tupthi | Abhinay Nalam |
 
 |  April 18 | Proxy | Bridge   |
 |---------:|----------:|----------:|
 |          | Abhilash Sreenivasa | Rahul Belwal |
-|          | Sandesh Sobarad | Available |
+|          | Sandesh Sobarad | Chaitanya |
 
 
 |  April 20 | Flyweight |
 |---------:|----------:|
-|          | Available |
-|          | Available |
+|          | Manavi Ghorpade |
+|          | Rohit Raut |
 
 
 ## Behavioral Patterns
@@ -46,13 +46,13 @@
 |  April 25 | Strategy | Chain of Responsibility |
 |---------:|----------:|----------:|
 |          | Available | Sourabh Kulkarni |
-|          | Available | Gargi Ghadigaonkar |
+|          | Manasa | Gargi Ghadigaonkar |
 
 
 |  April 27 | Command |        Iterator |
 |---------:|----------:|----------------:|
-|          | Available |  Shubham Latkar |
-|          | Available | Rohit Karhadkar |
+|          | Nidhi V Kulkarni |  Shubham Latkar |
+|          | Priyanka V Rao | Rohit Karhadkar |
 
 
 |  May 2   | Mediator  | Observer  |
@@ -62,7 +62,7 @@
 
 |  May 4 | Memento | State   |
 |---------:|----------:|----------:|
-|          | Available | Available |
+|          | David Coles | Sachin Satish Prasad |
 |          | Available | Available |
 
 |  May 9   | Template Method | Visitor |
