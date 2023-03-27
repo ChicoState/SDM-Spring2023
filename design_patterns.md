@@ -21,7 +21,7 @@
 
 |  April 11 | Adapter | Decorator   |
 |---------:|----------:|----------:|
-|          | Available | Hardik Patil|
+|          | Parth Pandey | Hardik Patil|
 |          | Devang Raval | Kushal Ramakanth |
 
 |  April 13 | Facade | Composite   |
