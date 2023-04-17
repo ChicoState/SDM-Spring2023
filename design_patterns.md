@@ -24,21 +24,21 @@
 |          | Parth Pandey | Hardik Patil|
 |          | Devang Raval | Kushal Ramakanth |
 
-|  April 13 | Facade | Composite   |
-|---------:|----------:|----------:|
-|          | Abhinav Merugu | Kishore Menda |
-|          | Hamsaraj Tupthi | Abhinay Nalam |
-
-|  April 18 | Proxy | Bridge   |
-|---------:|----------:|----------:|
-|          | Abhilash Sreenivasa | Rahul Belwal |
-|          | Sandesh Sobarad | Chaitanya |
-
-
-|  April 20 | Flyweight |
+|  April 13 | Facade |
 |---------:|----------:|
-|          | Manavi Ghorpade |
-|          | Rohit Raut |
+|          | Abhinav Merugu |
+|          | Hamsaraj Tupthi |
+
+|  April 18 | Composite | Proxy |
+|---------:|----------:|----------:|
+|          | Kishore Menda | Abhilash Sreenivasa |
+|          | Abhinay Nalam | Sandesh Sobarad |
+
+
+|  April 20 | Bridge | Flyweight |
+|---------:|----------:|---------:|
+|          | Rahul Belwal | Manavi Ghorpade |
+|          | Chaitanya | Rohit Raut |
 
 
 ## Behavioral Patterns
