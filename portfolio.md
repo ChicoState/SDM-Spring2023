@@ -1,6 +1,6 @@
 # Open Source maintenance portfolio
 
-The primary activity in the class is the maintenance of an open source. To showcase your contributions, you will set up an online portfolio of your work.
+The primary activity in the class is the maintenance of open source software. To showcase your contributions, you will set up an online portfolio of your work.
 
 Contributions in your portfolio may include:
 
@@ -26,7 +26,3 @@ The highlights should include at least two different types of contributions (fro
 ### Timeline
 
 With a subsection for each sprint (i.e. `## Sprint 1`) during the semester, create a bullet-list below it that summarizes what you worked on. You can list activities that are incomplete/unresolved (e.g. work on a feature not yet submitted as a Pull Request) or dismissed (e.g. a bug logged but closed without need for resolution, or a Pull Request rejected). Provide a link in the repo to show evidence of your work when possible.
-
-## Notes
-
-For reference to the original requirements for the MVP, see the [Original](docs/Original.pdf) and [Extension](docs/Extension.pdf) PDFs.
